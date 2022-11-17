@@ -14,7 +14,7 @@ Após subir o ambiente basta clicar no link abaixo para vizualizar o swagger.
 
 Para gerar um token e executar testes diretamento no swagger, basta ir no autenticacao-controller e gerar um token com o login :
 {
-"email" : "veterinario@gft.com",
+"email" : "veterinario@email.com",
 "senha" : "1234"
 }
 
